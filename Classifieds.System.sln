@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifieds.Data", "Classifieds.Data\Classifieds.Data.csproj", "{A560E360-1B80-4A46-9CA8-5B2E8467D541}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classifieds.Web", "Classifieds.Web\Classifieds.Web.csproj", "{EF478F8B-539C-401C-922C-2727178FDE63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A560E360-1B80-4A46-9CA8-5B2E8467D541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A560E360-1B80-4A46-9CA8-5B2E8467D541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A560E360-1B80-4A46-9CA8-5B2E8467D541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A560E360-1B80-4A46-9CA8-5B2E8467D541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF478F8B-539C-401C-922C-2727178FDE63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF478F8B-539C-401C-922C-2727178FDE63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF478F8B-539C-401C-922C-2727178FDE63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF478F8B-539C-401C-922C-2727178FDE63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4476800-26BD-48F8-9078-E3FCDF15590E}
+	EndGlobalSection
+EndGlobal
